@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/bmaelum/bootstrap/issues"
   },
-  "homepage": "https://github.com/bmaelum/bootstrap#readme"
+  "homepage": "https://github.com/bmaelum/bootstrap#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
 }
